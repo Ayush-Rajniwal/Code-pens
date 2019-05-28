@@ -1,5 +1,9 @@
 # Code-pens
-This repo contain all the pens I have created on Codepen.
+Collection of my Codepens
 
-# **CSS Beating Heart**
-![](heart.gif)
+* ## CSS Beating Heart
+[Live Preview](https://codepen.io/Ayush-Rajniwal/pen/zbaaMw)
+
+[Source Code](https://github.com/Ayush-Rajniwal/Code-pens/blob/master/CSS%20Beating%20Heart.html)
+ 
+ ![](heart.gif)
